@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/Picsart_26-06-14_22-36-34-977.jpg" alt="TeamCore Banner">
+</p>
 <div align="center">
 
 # ⚔️ TeamCore
