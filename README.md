@@ -83,7 +83,7 @@
 
 ## 🔧 Installation
 
-1. Download `TeamCore-1.0.0.jar` from the [Releases](https://github.com/yourname/TeamCore/releases) page.
+1. Download `TeamCore-1.0.0.jar` from the [Releases](https://github.com/kibagames/TeamCore/releases) page.
 2. Drop the jar into your server's `plugins/` folder.
 3. Start (or restart) the server — config files are generated automatically.
 4. Edit `plugins/TeamCore/config.yml` to configure your database and settings.
@@ -728,7 +728,7 @@ public void onWarEnd(TeamWarEndEvent event) {
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourname/TeamCore.git
+git clone https://github.com/kibagames/TeamCore.git
 cd TeamCore
 
 # Build the shaded JAR (all dependencies bundled)
@@ -849,6 +849,6 @@ THE SOFTWARE.
 
 Made with ❤️ for the Minecraft community
 
-**[⭐ Star this repo](https://github.com/yourname/TeamCore)** — it helps other server owners find it!
+**[⭐ Star this repo](https://github.com/kibagames/TeamCore)** — it helps other server owners find it!
 
 </div>
