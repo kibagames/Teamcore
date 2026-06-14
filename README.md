@@ -11,7 +11,7 @@
 
 *A production-ready, feature-packed team plugin with roles, wars, betrayal tracking, leveling, GUI menus, and a full developer API.*
 
-**Created by [KIBA OFFICIAL](https://github.com/kibagames)**
+**Created by [KIBA OFFICIAL](https://www.instagram.com/kiba_official_ig?igsh=bjA4NnRvZGE4OXZ4)**
 
 </div>
 
